@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main() {
   double R;
   double n = 3.14159;
