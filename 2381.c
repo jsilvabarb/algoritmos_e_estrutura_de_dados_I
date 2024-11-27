@@ -4,10 +4,6 @@
 
 #define MAX_NOME 21
 
-void ordenacao (char lista[]) {
-
-}
-
 int main () {
     int n, k;
 
